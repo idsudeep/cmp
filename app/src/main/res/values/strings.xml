@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">bapp</string>
+
+    <string-array name="gender_item">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="userType">
+        <item>setter</item>
+        <item>getter</item>
+    </string-array>
+</resources>
